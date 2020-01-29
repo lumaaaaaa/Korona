@@ -1,6 +1,7 @@
 # Korona
 A lightweight program that displays the amount of global Novel Coronavirus cases and deaths. Now with dark mode!
 
+![Preview](https://i.ibb.co/k50KD8b/Screen-Shot-2020-01-28-at-10-04-01-PM.png)
 # How it Works
 Korona grabs it's data from a .json file from John Hopkins University (thanks so much :D) and then parses out the necessary values using the "org.json" library. It then displays it on a JPanel. Simple.
 
